@@ -1,0 +1,6 @@
+{
+    "vscodeGoogleTranslate.preferredLanguage": "English",
+    "docwriter.style": "Javadoc",
+    "docwriter.progress.trackMethods": false,
+    "docwriter.progress.trackFunctions": false
+}
